@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 100%;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.container {
+  width: 500px;
+  border: 2px solid green;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.main-box {
+  border: 2px solid purple;
+  margin: 5px;
+}
+
+.nameScores {
+  border: 2px solid royalblue;
+  margin: 5px;
+}
+
+.list {
+  border: 1px solid black;
+  margin: 5px;
+  /* display: flex */
+}
+
+span {
+  display: inline-block;
+}
+
+.name {
+  margin-inline-end: 250px;
+}
